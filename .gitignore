@@ -1,0 +1,7 @@
+# Dependecies
+node_modules
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride

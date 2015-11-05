@@ -1,0 +1,25 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --debug index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AM-NiceDay/node-auth.git"
+  },
+  "author": "Aliaksei Krasikau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AM-NiceDay/node-auth/issues"
+  },
+  "homepage": "https://github.com/AM-NiceDay/node-auth#readme",
+  "dependencies": {
+    "babel": "^5.6.14",
+    "express": "^4.13.3",
+    "nodemon": "^1.8.1"
+  }
+}
